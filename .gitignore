@@ -4,6 +4,7 @@ clustring_experiment.ipynb
 # Directories
 myenv
 venv
+vevn
 env/
 build/
 *.egg-info/
