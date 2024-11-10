@@ -3,7 +3,7 @@ clustring_experiment.ipynb
 
 # Directories
 myenv
-venv/
+venv
 env/
 build/
 *.egg-info/
