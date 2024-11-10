@@ -1,0 +1,33 @@
+experiments.ipynb
+clustring_experiment.ipynb
+
+# Directories
+myenv
+venv/
+env/
+build/
+*.egg-info/
+__pycache__/
+data/
+testing/
+AI/emotion
+AI/facial
+quantexai/
+Experiment/
+src/chatgpt_chroma_db
+
+# File formats
+*.pyc
+*.ipynb
+
+# Files
+.env
+text.txt
+.DS_Store
+.mypy_cache
+*.ipynb
+
+guide.txt
+src/chroma_db
+src/faiss_index
+
